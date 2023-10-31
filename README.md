@@ -1,3 +1,3 @@
 # python-darslari
 
-Ushbu sahifada siz python darslarini ko'rishingiz mumkin!
+Ushbu sahifada siz python darslariga oid kodlarni ko'rishingiz mumkin!
